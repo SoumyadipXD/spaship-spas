@@ -1,0 +1,17 @@
+{
+	"websiteVersion": "v1",
+	"websiteName": "one.redhat.com",
+	"environments": [
+		"prod",
+		"dev",
+		"stage"
+	],
+	"branch": "proprod",
+	"name": "contact",
+	"mapping": "contaact_text",
+	"excludeFromEnvs": [
+		"prod",
+		"dev",
+		"stage"
+	]
+}
